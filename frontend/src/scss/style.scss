@@ -1,0 +1,6 @@
+.anim-show {
+	opacity: 0;
+	transition: 1s;
+	animation: show 1s 1;
+  animation-fill-mode: forwards;
+}
